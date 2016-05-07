@@ -1,0 +1,1 @@
+var openForm=document.querySelector(".finde-hotel"),form=document.querySelector(".find-hotel-form");openForm.addEventListener("click",function(e){e.preventDefault(),form.classList.toggle("find-hotel-form-show")});
